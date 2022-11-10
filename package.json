@@ -70,7 +70,7 @@
     "fs-extra": "0.18.x"
   },
   "devDependencies": {
-    "electron": "^7.0.0"
+    "electron": "^18.3.7"
   },
   "script_notes": "to run a script w/o using npm test, use npm run [script name]",
   "scripts": {
